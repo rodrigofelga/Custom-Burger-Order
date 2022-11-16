@@ -15,7 +15,7 @@ Setting type to "number" creates a single row field for number input.
 Setting type to "range" creates a slider to select from a range of numbers.
 Setting type to "checkbox" creates a single checkbox that can be paired with other checkboxes.
 Setting type to "radio" creates a radio button that can be paired with other radio buttons.
-Setting type to "text" and adding the list attribute will pair the <input> with a <datalist> element if the list of <input> and the id of <datalist> are the same.
+Setting type to "text" and adding the list attribute will pair the 'input' with a <datalist> element if the list of <input> and the id of <datalist> are the same.
 Setting type to "submit" creates a submit button.
 A 'select' element is populated with <option> elements and renders a dropdown list selection.
 A 'datalist' element is populated with <option> elements and works with an <input> to search through choices.
