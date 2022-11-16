@@ -5,7 +5,7 @@ HTML5 FORM ELEMENTS
 
 In this lesson we went over:
 
-The purpose of a <form> is to allow users to input information and send it.
+The purpose of a form is to allow users to input information and send it.
 The <form>‘s action attribute determines where the form’s information goes.
 The <form>‘s method attribute determines how the information is sent and processed.
 To add fields for users to input information we use the <input> element and set the type attribute to a field of our choosing:
