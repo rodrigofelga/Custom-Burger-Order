@@ -3,7 +3,7 @@ Test this amazing exercise that explore the following items:
 
 HTML5 FORM ELEMENTS
 
-![image](https://user-images.githubusercontent.com/54859866/202075311-d5ba546b-109e-4530-bca8-f33cbd1b6180.png)
+<a href="https://rodrigofelga.github.io/Custom-Burger-Order/">![image](https://user-images.githubusercontent.com/54859866/202075311-d5ba546b-109e-4530-bca8-f33cbd1b6180.png)</a>
 
 
 In this lesson we went over:
