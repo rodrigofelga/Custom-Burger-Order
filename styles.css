@@ -1,6 +1,8 @@
+
 body {
   background-color: rgb(57, 169, 219);
-  font-family: Rubik, Arial;
+  font-family: Rubik, Arial, sans-serif;
+  padding: 20px;
 }
 
 form {
